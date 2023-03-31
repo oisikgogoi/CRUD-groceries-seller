@@ -1,0 +1,29 @@
+*{
+  margin: 0px;
+  padding: 0;
+  box-sizing: border-box;
+  font-family:sans-serif;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+@keyframes edit_button_animation{
+  0%{
+    left: -120px;
+  }
+  100%{
+    left:0px;
+  }
+}
+@keyframes delete_button_animation{
+  0%{
+    right: -120px;
+  }
+  100%{
+    right:0px;
+  }
+}
+
+@media screen and (max-width:931px){
+
+} 
