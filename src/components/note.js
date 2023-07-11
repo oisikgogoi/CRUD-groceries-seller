@@ -27,7 +27,7 @@ const Main = styled.div`
   padding:5px;
   box-shadow:1px 1px 6px 2px rgba(173, 173, 173, 0.733);
   margin:1rem 0;
-  background:rgba(192, 168, 135 , .3);
+  background:rgba(192, 168, 145 , .3);
 
   h3{
     font-family:Poppins,sans-serif;

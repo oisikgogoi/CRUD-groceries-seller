@@ -111,6 +111,7 @@ grid-template-columns: repeat(3,1fr);
 row-gap:1rem;
 column-gap:1rem;
 
+
 @media all and (max-width:790px){
 grid-template-columns: repeat(2,1fr);
 }
